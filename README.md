@@ -8,5 +8,5 @@ always learn  something new📚.
 
 # Main projects
 
-🦠 - [**Shor's algorithm**](https://github.com/jmpr1991/Shor_algorithm): this is an algorithm which computes the prime
-factors of an integer. My implementation uses modular exponentiation.
+🦠 - [**Shor's algorithm**](https://github.com/jmpr1991/Shor_algorithm): this is a quantum algorithm which computes the 
+prime factors of an integer. My implementation uses modular exponentiation.
