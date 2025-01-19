@@ -10,7 +10,9 @@ always learn  something new📚.
 
 🦠 - [**Shor's algorithm**](https://github.com/jmpr1991/Shor_algorithm): this is a quantum algorithm which computes the 
 prime factors of an integer. My implementation uses modular exponentiation.
+
 🦠 - [**TSP problem optimization**](https://github.com/jmpr1991/TSP_problem): this is a Genetic Algorithm to solve 
 the Travelling Salesman Problem.
+
 🦠 - [**ES optimization**](https://github.com/jmpr1991/ES-Optimization): this is an Evolution Strategy to optimize different functions.
 It can be easely adtaptable to the optimization of other functions.
