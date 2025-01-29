@@ -14,5 +14,6 @@ prime factors of an integer. My implementation uses modular exponentiation.
 🦠 - [**TSP problem optimization**](https://github.com/jmpr1991/TSP_problem): this is a Genetic Algorithm to solve 
 the Travelling Salesman Problem.
 
-🦠 - [**ES optimization**](https://github.com/jmpr1991/ES-Optimization): this is an Evolution Strategy to optimize different functions.
-It can be easely adtaptable to the optimization of other functions.
+🦠 - [**ES optimization**](https://github.com/jmpr1991/ES-Optimization): this is an Evolution Strategy to optimize different functions. It can be easely adtaptable to the optimization of other functions.
+
+🦠 - [**DE optimization**](https://github.com/jmpr1991/DE-Optimization): this is an Differential Evolution strategy to optimize different functions. It can be easely adtaptable to the optimization of other functions.
